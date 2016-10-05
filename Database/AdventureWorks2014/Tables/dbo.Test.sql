@@ -1,4 +1,4 @@
-CREATE TABLE [dbo].[ErrorLog]
+CREATE TABLE [dbo].[Test]
 (
 [TestId] [int] NOT NULL IDENTITY(1, 1),
 [TestMessage] [nvarchar] (4000) COLLATE SQL_Latin1_General_CP1_CI_AS NOT NULL
